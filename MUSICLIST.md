@@ -71,3 +71,18 @@
 262397234       - Khans of New California
 258600175       - Acoyltes of the New God
 4370293084      - Oil rig
+
+## Fallout 3 Ambients
+962345937       - Battle music
+145496386       - The Pitt
+1391278172      - Life in the wasteland
+150535519       - Exiting the vault
+991986190       - Baby Steps
+1836849269      - Paradise lost
+142294695       - Tranquility lane
+247269930       - Ashes and sand
+346714900       - Lockstep
+329847013       - Battle for Jefferson Memorial
+348853468       - New world, New order
+181936526       - Dungeon
+339754987       - Mothership Zeta
