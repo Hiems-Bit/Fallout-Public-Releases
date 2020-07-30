@@ -1,4 +1,4 @@
-# Fallout Songs, Voice Lines and Ambient clips(Playback Speed 0. Also includes some songs that would fit in-universe
+# Fallout Songs, Voice Lines and Ambient clips. Also includes some songs that would fit in-universe.
 
 ## Fallout Songs
 151661883       - Walking the floor
