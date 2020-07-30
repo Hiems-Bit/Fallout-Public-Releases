@@ -1,6 +1,6 @@
 # Fallout Songs, Voice Lines and Ambient clips(Playback Speed 0. Also includes some songs that would fit in-universe
 
-# Fallout Songs
+## Fallout Songs
 151661883       - Walking the floor
 177273065       - Boogie man
 175998185       - Mad about the boy
@@ -57,3 +57,17 @@
 528257531       - Wanderer
 4443011211      - Jukebox Saturday night (Playback Speed 1.7)
 4484646391      - Joe Cool
+
+## Fallout 1 & 2 Ambients
+428277156       - Moribund World
+250200606       - Metallic Monks
+277253157       - Under ground
+277252220       - Industrial Junk
+1057861318      - City of the dead
+955144264       - Vats of Goo
+953217943       - New Reno
+1057885662      - Gold slouch
+954877745       - Vault City
+262397234       - Khans of New California
+258600175       - Acoyltes of the New God
+4370293084      - Oil rig
