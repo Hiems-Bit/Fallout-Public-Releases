@@ -52,11 +52,12 @@
 3771313548      - Stars of the midnight range (Playback Speed 1.05)
 3619341539      - Strahlende Tropete
 1846421752      - Manhatten
-4124213157      - It's a sin 1(Playback Speed 0.25)
+4124213157      - It's a sin (Playback Speed 1.25)
 3437719270      - Bluemoon (Playback Speed 0.7)
 528257531       - Wanderer
 4443011211      - Jukebox Saturday night (Playback Speed 1.7)
 4484646391      - Joe Cool
+4514950452      - Sleepytown blues
 
 ## Fallout 1 & 2 Ambients
 428277156       - Moribund World
@@ -100,3 +101,70 @@
 713020138       - Exploring The Wasteland
 378698943       - Jacobstown Day High
 
+## Fallout 76 Ambients
+4514648647      - Xmas atomic shop
+
+## Enclave Radio
+2669952953      - Dixie
+
+## Voice lines
+4370107235      - Arch dornan
+4468954436      - Gary Gary Gary!
+
+## Universe Fitting Songs
+280294996       - Yanks
+2658523195      - In the mood
+291849399       - Dont sit under the apple tree
+598473993       - Not fallout but still amazing
+342272814       - Shake em up
+478652932       - Xs in texas
+396867887       - Big bouquet of roses
+1408376341      - Ive got stripes
+1623948080      - Daddy sang bass
+320792684       - Ghost riders in the sky
+909590731       - Its america Ernest Tubbs
+1778269243      - Ernest Tubbs Texas Troubidours
+3112352692      - Cool water (Playback Speed 0.67)
+854008279       - Mr anthonys boogie
+2057179224      - Johnny be good
+900738748       - Believe in me
+1104129652      - Hey good lookin
+717069526       - It dont mean a thing
+317324627       - Stay home tonight
+345336340       - Kay song
+318257580       - Rosie your are my
+326820907       - Rainbow round my shoulder
+326822365       - Happy song
+328215551       - Blackface preformace 
+343058084       - Buttermilk skies
+343058277       - Time goes by
+343058415       - What a perfect combination
+345335296       - April showers
+345336030       - Is it true
+345715426       - Dream a little dream
+275508268       - Moonlight time saving 
+292228629       - Aint misbehaving
+294473260       - My mammy
+303523445       - Tie a little string
+303524319       - Goodbye tootsie 
+303524431       - White top hat
+317324967       - Susie 
+2602658043      - How to spot a communist 
+3080952981      - Old shanty town Ink spots
+213598490       - Mr. Sandman (Playback Speed 0.55)
+2303249893      - Midnight the stars and you'
+2398661861      - Put your head on my shoulder (Playback Speed 0.67)
+565937325       - Plane jane
+3546220912      - Brazil
+4102071047      - Serenade to a Coyote
+4093978063      - Timber Trail
+3318153101      - El paso (Playback Speed 0.9)
+4124405899      - Way out there
+4158143414      - Dwelling In Beulah La
+4164969895      - Eddie my love (Playback Speed 0.8)
+4164449495      - Around the world
+4179439025      - Talking steel guitar 
+4179385431      - Bloom is on the sage
+4341962834      - Ever lasting hills of oaklahomla
+4055413089      - Some where beyond the sea (Playback Speed 0.9)
+4442758187      - Dean martin everybody (Playback Speed 1.2)
