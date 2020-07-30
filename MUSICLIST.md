@@ -86,3 +86,17 @@
 348853468       - New world, New order
 181936526       - Dungeon
 339754987       - Mothership Zeta
+
+## Fallout New Vegas Ambients
+381627168       - Corperate Ruins
+2999390982      - Caesars Legion
+1355101012      - Dungeon
+454945605       - Dam Nation
+2999410234      - NCR
+498907739       - Courier Walk Softly
+749556346       - Dead Money
+263593264       - Doc Mitchell
+671002196       - Main Battle theme
+713020138       - Exploring The Wasteland
+378698943       - Jacobstown Day High
+
