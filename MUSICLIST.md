@@ -168,3 +168,47 @@
 4341962834      - Ever lasting hills of oaklahomla
 4055413089      - Some where beyond the sea (Playback Speed 0.9)
 4442758187      - Dean martin everybody (Playback Speed 1.2)
+
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I dont drink
+I dont cuss
+I wanna ride on the front of the bus
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I wanna eat where the white folks eat
+cause I'm white on the bottom of my feet.
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+We dont screw like the white folks do
+we just screw til we get through
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I wanna be white more and more
+so i can bitch at the nigger next door
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I'm glad this tune came along
+we done wore out one nigger song.
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I wanna be white dont you understand
+so I can play in a trashy white band
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
+
+I'm an Alabama Nigger and I wanna be free
+Hell with the N double A C P
